@@ -3,4 +3,5 @@ snowdreamtech/frpc:latest
 snowdreamtech/frps:latest
 itzg/minecraft-server:java21
 itzg/minecraft-server:java17
+itzg/minecraft-server:java11
 itzg/minecraft-server:java8
