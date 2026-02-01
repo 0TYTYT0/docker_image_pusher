@@ -1,4 +1,5 @@
 nginx
+mariadb:10.11
 snowdreamtech/frpc:latest
 snowdreamtech/frps:latest
 itzg/minecraft-server:java21
