@@ -2,6 +2,7 @@ nginx
 mariadb:10.11
 snowdreamtech/frpc:latest
 snowdreamtech/frps:latest
+itzg/mc-proxy:latest
 itzg/minecraft-server:java21
 itzg/minecraft-server:java17
 itzg/minecraft-server:java11
